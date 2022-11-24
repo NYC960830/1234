@@ -57,6 +57,6 @@
     </sap:WorkflowViewStateService.ViewState>
     <WriteLine DisplayName="Write Line" sap:VirtualizedContainerService.HintSize="358,97" sap2010:WorkflowViewState.IdRef="WriteLine_1" Text="2022-11-24 git-hub 연동 테스트" />
     <ui:WriteTextFile File="{x:Null}" DisplayName="Write Text File" FileName="[Now.ToString(&quot;yyyyMMdd_HHmm&quot;) + &quot;.txt&quot;]" sap:VirtualizedContainerService.HintSize="358,142" sap2010:WorkflowViewState.IdRef="WriteTextFile_1" Text="20221124에 만든 테스트 파일입니다." />
-    <WriteLine DisplayName="Write Line" sap:VirtualizedContainerService.HintSize="358,97" sap2010:WorkflowViewState.IdRef="WriteLine_2" Text="......................" />
+    <WriteLine DisplayName="Write Line" sap:VirtualizedContainerService.HintSize="358,97" sap2010:WorkflowViewState.IdRef="WriteLine_2" Text="...................." />
   </Sequence>
 </Activity>
